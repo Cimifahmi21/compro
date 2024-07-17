@@ -6,3 +6,4 @@ export default async function Fetchingdata() {
     <div>fetchingdatF</div>
   )
 }
+
