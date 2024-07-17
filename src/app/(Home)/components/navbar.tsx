@@ -98,14 +98,14 @@ export default function Navbar() {
           </Link>
           <Link
             onClick={() => setMenu(false)}
-            href="/service"
+            href="/Productpage"
             className="font-medium text-sky-700"
           >
-            Service
+            Product
           </Link>
           <Link
             onClick={() => setMenu(false)}
-            href="/"
+            href="/Teams"
             className="font-medium text-sky-700"
           >
             Teams
